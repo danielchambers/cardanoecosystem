@@ -1,0 +1,27 @@
+[{
+	"name": "Charli3",
+	"url": "https://charli3.io/",
+	"icon": "https://i.imgur.com/lRRfetY.png",
+	"description": "Decentralized Oracle.",
+	"category": "Oracle",
+	"social": {
+		"twitter": "https://twitter.com/Oraclecharli3",
+		"medium": "https://oraclecharli3.medium.com/",
+		"reddit": "",
+		"telegram": "https://t.me/Charli3Official",
+		"discord": ""
+	}
+},{
+	"name": "Wolfram Blockchain Labs",
+	"url": "https://www.wolframblockchainlabs.com/",
+	"icon": "https://i.imgur.com/C1GiU52.png",
+	"description": "Decentralized Oracle.",
+	"category": "Oracle",
+	"social": {
+		"twitter": "https://twitter.com/WolframResearch",
+		"medium": "",
+		"reddit": "",
+		"telegram": "",
+		"discord": ""
+	}
+}]
