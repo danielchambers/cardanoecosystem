@@ -1,0 +1,42 @@
+[{
+	"name": "OccamFi",
+	"url": "https://occam.fi/",
+	"icon": "https://i.imgur.com/nY92URk.png",
+	"description": "A launchpad, DEX (decentralized exchange) tools, and liquidity pools.",
+	"category": "Launchpad",
+	"social": {
+		"twitter": "https://twitter.com/OccamFi",
+		"medium": "https://medium.com/occam-finance",
+		"reddit": "https://www.reddit.com/user/OccamFi",
+		"telegram": "https://t.me/occamfi",
+		"discord": ""
+	}
+},
+{
+	"name": "Card Starter",
+	"url": "https://cardstarter.io/",
+	"icon": "https://i.imgur.com/nY92URk.png",
+	"description": "A launchpad, DEX (decentralized exchange) tools, and liquidity pools.",
+	"category": "Launchpad",
+	"social": {
+		"twitter": "",
+		"medium": "https://cardstarter.medium.com/",
+		"reddit": "",
+		"telegram": "",
+		"discord": ""
+	}
+},
+{
+	"name": "Ventup",
+	"url": "https://ventup.io/",
+	"icon": "https://i.imgur.com/Qu9zXBl.jpg",
+	"description": "A launchpad, DEX (decentralized exchange) tools, and liquidity pools.",
+	"category": "Launchpad",
+	"social": {
+		"twitter": "https://twitter.com/VentFinance",
+		"medium": "https://blog.vent.finance/",
+		"reddit": "",
+		"telegram": "https://t.me/ventfinance_official",
+		"discord": ""
+	}
+}]
