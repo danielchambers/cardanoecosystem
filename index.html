@@ -5,13 +5,14 @@
 <script>
   let result = document.querySelector('#aaa');
   let xhr = new XMLHttpRequest();
-  let url = "projects/launchpads.json";
+  let url = "https://ada.builders/projects/oracles.json";
 
   xhr.open("GET", url, true);
   xhr.setRequestHeader("Content-Type", "application/json");
   xhr.onreadystatechange = function () {
-      if (xhr.readyState === 4 && xhr.status === 200) {
-          result.innerHTML = this.responseText;
-      }
+    console.log(this.responseText);
+    if (xhr.readyState === 4 && xhr.status === 200) {
+      result.innerHTML = this.responseText;
+    }
   };
 </script>
