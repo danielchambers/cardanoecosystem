@@ -1,14 +1,17 @@
-<script
-  src="https://code.jquery.com/jquery-3.6.0.slim.js"
-  integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
-  crossorigin="anonymous"></script>
-
 <body>
-  <div id="a"></div>
+  <div id="aaa"></div>
 </body>
 
 <script>
-  $.get( "projects/launchpads.json", function(data) {
-    $( "#a" ).html( data );
-  });
+  let result = document.querySelector('#aaa');
+  let xhr = new XMLHttpRequest();
+  let url = "projects/launchpads.json";
+
+  xhr.open("GET", url, true);
+  xhr.setRequestHeader("Content-Type", "application/json");
+  xhr.onreadystatechange = function () {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+          result.innerHTML = this.responseText;
+      }
+  };
 </script>
