@@ -1,0 +1,40 @@
+[{
+	"name": "Charli3",
+	"url": "https://charli3.io/",
+	"icon": "https://i.imgur.com/lRRfetY.png",
+	"description": "Decentralized Oracle.",
+	"category": "Oracle",
+	"social": {
+		"twitter": "https://twitter.com/Oraclecharli3",
+		"medium": "https://oraclecharli3.medium.com/",
+		"reddit": "",
+		"telegram": "https://t.me/Charli3Official",
+		"discord": ""
+	}
+},{
+	"name": "Wolfram Blockchain Labs",
+	"url": "https://wolframblockchainlabs.com/",
+	"icon": "https://i.imgur.com/CPvtn1s.png",
+	"description": "Decentralized Oracle.",
+	"category": "Oracle",
+	"social": {
+		"twitter": "https://twitter.com/WolframResearch",
+		"medium": "",
+		"reddit": "",
+		"telegram": "",
+		"discord": ""
+	}
+},{
+	"name": "Ergo",
+	"url": "https://ergoplatform.org/",
+	"icon": "https://i.imgur.com/gBsCmpP.jpg",
+	"description": "Decentralized Oracle.",
+	"category": "Oracle",
+	"social": {
+		"twitter": "https://twitter.com/ergoplatformorg",
+		"medium": "https://ergoplatform.org/en/blog/",
+		"reddit": "",
+		"telegram": "https://t.me/ergoplatform",
+		"discord": "https://discord.gg/kj7s7nb"
+	}
+}]
